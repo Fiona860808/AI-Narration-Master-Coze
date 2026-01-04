@@ -45,7 +45,7 @@
 
 本模版依赖 **MySQL 数据库** 来保存用户数据和 Key 管理。请务必按照以下步骤操作，否则应用无法运行。
 
-> Before installing Dify，make sure your machine meets the following minimum system requirements：
+> #### Before installing Dify，make sure your machine meets the following minimum system requirements：
 
 > - FPU >= 2 Core
 
